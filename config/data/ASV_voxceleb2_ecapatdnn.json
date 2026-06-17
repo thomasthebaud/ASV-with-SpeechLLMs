@@ -1,0 +1,14 @@
+{
+    "train":
+    {
+        "voxceleb2_dev":["speaker"]
+    },
+    "dev":
+    {
+        "voxceleb2_test":["speaker"]
+    },
+    "test":
+    {
+        "voxceleb1_test-e":["speaker"]
+    }        
+}

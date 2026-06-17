@@ -1,0 +1,19 @@
+{
+  "outside_judge": [
+    {
+      "index": 0,
+      "question": "These are two distinct audios. Answer by yes or no: Are those from the same speaker?",
+      "related_categories": [
+        "Speaker"
+      ],
+      "positive_followups": [
+        "Yes"
+      ],
+      "negative_followups": [
+        "No"
+      ],
+      "positive_defination": "Yes: the speakers in both audios sounds the same.",
+      "negative_defination": "No: the speakers in both audios sounds different."
+    }
+  ]
+}
