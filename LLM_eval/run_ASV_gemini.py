@@ -41,7 +41,7 @@ df['segmentaudio'] = [f'/export/corpora5/VoxCeleb1_v2/wav/{i[:7]}/{i[8:-6]}/{i[-
 df = df.sample(n=TOTAL, random_state=SEED).reset_index()
 n_total = len(df)
 
-client = genai.Client(api_key='AIzaSyBZLOJFSIHzXqi_eY_Mcz-C3ykftsRKcv4')
+client = genai.Client(api_key='yourkey')
 
 
 n_eval_done = 0
