@@ -10,7 +10,6 @@ This repository contains two related code paths:
 Paper:
 
 - arXiv: https://arxiv.org/abs/2603.10827
-- PDF: https://arxiv.org/pdf/2603.10827
 - Published at Interspeech 2026.
 
 Contact: Thomas Thebaud, Johns Hopkins University. Please use the contact information from the paper or publication page.
@@ -325,20 +324,6 @@ Please cite the paper if this code is useful for your research:
   note      = {arXiv:2603.10827},
   url       = {https://arxiv.org/abs/2603.10827},
   doi       = {10.48550/arXiv.2603.10827}
-}
-```
-
-An arXiv-only reference is:
-
-```bibtex
-@misc{thebaud2026speakerarxiv,
-  title         = {Speaker Verification with Speech-Aware LLMs: Evaluation and Augmentation},
-  author        = {Thomas Thebaud and Yuzhe Wang and Laureano Moro-Velazquez and Jesus Villalba-Lopez and Najim Dehak},
-  year          = {2026},
-  eprint        = {2603.10827},
-  archivePrefix = {arXiv},
-  primaryClass  = {eess.AS},
-  url           = {https://arxiv.org/abs/2603.10827}
 }
 ```
 

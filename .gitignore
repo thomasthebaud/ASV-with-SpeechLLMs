@@ -1,0 +1,8 @@
+checkpoints/*
+logs/*
+data/*
+LLM_eval/data/*
+exp/*
+speechbrain/*
+local/ASV_experiments/API_keys.secret
+local/ASV_experiments/*.csv
