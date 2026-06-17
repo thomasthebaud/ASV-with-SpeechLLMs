@@ -1,6 +1,6 @@
 # Speaker Verification with Speech-Aware LLMs
 
-Code for the paper **Speaker Verification with Speech-Aware LLMs: Evaluation and Augmentation** by Thomas Thebaud, Yuzhe Wang, Laureano Moro-Velazquez, Jesus Villalba-Lopez, and Najim Dehak.
+Code for the paper **Speaker Verification with Speech-Aware LLMs: Evaluation and Augmentation** 
 
 This repository contains two related code paths:
 
